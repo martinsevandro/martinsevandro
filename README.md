@@ -7,7 +7,7 @@
 
 - 💬 Compartilho alguns trabalhos acadêmicos e projetos pessoais que costumo desenvolver para treinar novas tecnologias 💬
 
-- ⚡ Entusiasta por **e-sports** 🎮
+- ⚡ Entusiasta por **Arquitetura de Computadores** e **e-sports** 🎮
 
 
 <div align="center">
