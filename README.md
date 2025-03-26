@@ -1,13 +1,12 @@
-### Hello World 👍
-### Aoba povo ✌️
+### Hello, World 👍
 
+### 🖥️ About Me  
 
-- 🔭 Sou estudante de **Engenharia de Computação** na **Universidade Federal do Ceará**, campus Sobral 🌞
-- 🌱 Estudando **Desenvolvimento WEB** no momento 😼
-
-- 💬 Compartilho alguns trabalhos acadêmicos e projetos pessoais que costumo desenvolver para treinar novas tecnologias 💬
-
-- ⚡ Entusiasta por **Arquitetura de Computadores** e **esports** 🎮
+- 🎓 Bachelor's degree in **Computer Engineering** at **Federal University of Ceará**, Sobral campus 🌞
+- 🔍 Focus on **Data Science**, **Machine Learning**, and **Web Development** 😼
+- 📊 Experience in **data analysis**, **visualization**, and **educational analytics**.  
+- ⚡ Enthusiast of **Computer Architecture** and **Esports** 🎮.  
+- 📂 Sharing academic projects and personal developments to explore new technologies.  
 
 
 <div align="center">
@@ -19,11 +18,10 @@
   ##
   
 <div align="center">
-    <a href="https://www.linkedin.com/in/evandrofilhomartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/martinsevandro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://instagram.com/ef_martins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>                                                                                                         
-    <a href="https://www.youtube.com/yuse1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/yuse1br" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>                                                                                                        
-    <a href = "mailto:evandrofmartins@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:evandro.filho@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
 </div>
   
