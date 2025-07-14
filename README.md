@@ -2,7 +2,7 @@
 
 ### 🖥️ About Me  
 
-- 🎓 Bachelor's degree in **Computer Engineering** at **Federal University of Ceará**, Sobral campus 🌞
+- 🎓 Bachelor's degree in **Computer Engineering** at **Federal University of Ceará**, Sobral Campus 🌞
 - 🔍 Focus on **Data Science**, **Machine Learning**, and **Web Development** 😼
 - 📊 Experience in **data analysis**, **visualization**, and **educational analytics**.  
 - ⚡ Enthusiast of **Computer Architecture** and **Esports** 🎮.  
@@ -25,10 +25,8 @@
     
 </div>
   
-
-  ![Snake animation](https://github.com/martinsevandro/martinsevandro/blob/output/github-contribution-grid-snake.svg)
-
-  
-    
-  
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/martinsevandro/martinsevandro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/martinsevandro/martinsevandro/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/martinsevandro/martinsevandro/output/github-contribution-grid-snake.svg">
+</picture>   
