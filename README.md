@@ -24,7 +24,6 @@
   <a href="https://www.twitch.tv/yuse1br" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>                                                                           
   <a href = "mailto:evandro.filho@outlook.com.br"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
 </div>
-##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/martinsevandro/martinsevandro/output/github-contribution-grid-snake-dark.svg">
