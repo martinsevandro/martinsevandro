@@ -9,11 +9,7 @@
 - 📂 Sharing academic projects and personal developments to explore new technologies.  
 
 
-<div align="center">
-  <a href="https://github.com/martinsevandro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinsevandro&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsevandro&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
     
 ##
   
